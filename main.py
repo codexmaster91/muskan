@@ -5,7 +5,7 @@ import time
 import telebot
 import os
 
-bot = telebot.TeleBot(os.getenv("7637555727:AAHErDiZoANEp8tXbe1zLAICzNDogKyLAc0")
+bot = telebot.TeleBot(os.getenv("7637555727:AAHErDiZoANEp8tXbe1zLAICzNDogKyLAc0"))
 
 # Owner's user ID (replace with your actual Telegram user ID)
 OWNER_ID = 7674198922  # Change this to your Telegram user ID
